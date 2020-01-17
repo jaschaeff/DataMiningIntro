@@ -1,4 +1,4 @@
-# CSC349: Introduction to Data Mining
+# CSCI349: Introduction to Data Mining
 
 Jake Schaeffer
 
